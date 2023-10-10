@@ -1,36 +1,79 @@
 album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Balakrishna Hit Songs,1,0tcKNQKbX2rUzDVusIXZ1N,Paalakolla Papa,spotify:track:0tcKNQKbX2rUzDVusIXZ1N,0.786,0.486,0.598,0.0,0.321,-5.024,0.0455,92.491,0.799,34
+Balakrishna Hit Songs,2,6V6ac50KdPGOyCroTUd631,Oho Bhama,spotify:track:6V6ac50KdPGOyCroTUd631,0.612,0.739,0.929,3.29e-06,0.263,-3.143,0.13,90.974,0.898,24
+Balakrishna Hit Songs,3,5wBCqWnJS9eowHMFTd0rmu,Srirasthu Shubhamasthu,spotify:track:5wBCqWnJS9eowHMFTd0rmu,0.651,0.502,0.668,0.0,0.345,-3.633,0.0314,97.06,0.472,18
+Balakrishna Hit Songs,4,0pVE2dUVtBSae6nhR8T7Bv,Okkasaari Okkasaari,spotify:track:0pVE2dUVtBSae6nhR8T7Bv,0.526,0.638,0.677,0.0,0.165,-4.615,0.0324,132.843,0.606,23
+Balakrishna Hit Songs,5,53bJ3dcdhXthwPPeghk0DH,Edu Ela Vesina,spotify:track:53bJ3dcdhXthwPPeghk0DH,0.561,0.704,0.783,0.0,0.175,-4.8,0.0677,80.521,0.865,16
+Balakrishna Hit Songs,6,4m1LE3oxIbNeGcixZvzdVp,Chi Chi Paapa Chi,spotify:track:4m1LE3oxIbNeGcixZvzdVp,0.534,0.748,0.833,0.0,0.354,-4.225,0.123,104.985,0.652,13
+Balakrishna Hit Songs,7,1HPJyN6BvVEUKiUODkSsr5,Maama Zabba Maama,spotify:track:1HPJyN6BvVEUKiUODkSsr5,0.5,0.712,0.862,7.18e-05,0.224,-4.542,0.101,128.342,0.453,13
+Balakrishna Hit Songs,8,0zYudx6wCPUp9WyC1b6PVf,Lakadi Ka Polata,spotify:track:0zYudx6wCPUp9WyC1b6PVf,0.839,0.535,0.792,8.49e-06,0.124,-3.036,0.156,72.494,0.79,14
+Chandrabose Golden Memories,1,6HKuEmJNhyJwo238SwCrQ9,"Panchangam Yeanga(From""Makkal Yen Pakkam"")",spotify:track:6HKuEmJNhyJwo238SwCrQ9,0.958,0.406,0.088,0.834,0.139,-24.503,0.042,94.468,0.511,13
+Chandrabose Golden Memories,2,0PGlA2PFGXlEwSgGDlivbr,"Thennamara Thoppukulla Varuva(From""Micheal Raj"")",spotify:track:0PGlA2PFGXlEwSgGDlivbr,0.854,0.723,0.434,0.225,0.38,-10.535,0.224,78.42,0.775,8
+Chandrabose Golden Memories,3,1BwBK8EDqnaTpnA32vEDbC,"Odakaraieley Orama(From""Ilayaraja Love bites"")",spotify:track:1BwBK8EDqnaTpnA32vEDbC,0.97,0.493,0.536,0.506,0.183,-13.136,0.0787,104.816,0.91,7
+Chandrabose Golden Memories,4,6htHJSvahFZrMqeQ6oP7h9,"Vethala Madichi Kodutha(From""Pattisollai Thattadhe"")",spotify:track:6htHJSvahFZrMqeQ6oP7h9,0.911,0.554,0.344,0.439,0.103,-11.892,0.11,149.072,0.754,10
 Chandrabose Golden Memories,5,4smBGDXczW2R3vWDiXKKVO,"Muthu Muthu Mala Pottu(From""Pen Butthi Munbutthi"")",spotify:track:4smBGDXczW2R3vWDiXKKVO,0.453,0.695,0.417,1.32e-05,0.254,-12.037,0.0396,133.363,0.716,6
 Chandrabose Golden Memories,6,1nxMcG8huGfUqaNTJNSFqD,"Kakki Sattai Potta Machan(From""Sankar Guru"")",spotify:track:1nxMcG8huGfUqaNTJNSFqD,0.335,0.781,0.42,2.33e-05,0.041,-12.173,0.0851,141.169,0.829,6
+Chandrabose Golden Memories,7,492EZAnY1CLSYWYp9bhwOD,"Hey Mallikai Poo Poothirukku(From""Thaimel Aanai"")",spotify:track:492EZAnY1CLSYWYp9bhwOD,0.753,0.555,0.392,0.0507,0.239,-11.44,0.0395,79.198,0.742,13
 Chandrabose Golden Memories,8,5Nky2QPUkAsEgmvn1JwQMM,"Kaatukuilea Kavithai Paadi(From""Unnidam Mayangukiren"")",spotify:track:5Nky2QPUkAsEgmvn1JwQMM,0.663,0.721,0.293,1.12e-05,0.109,-15.261,0.0629,132.667,0.821,7
+Chandrabose Golden Memories,9,0jbQ2cXkJSb0qt0WnJKvEq,"Samakozhi Koovura Neram(From""Vaazha Piranda Pookkal"")",spotify:track:0jbQ2cXkJSb0qt0WnJKvEq,0.797,0.623,0.578,0.106,0.0529,-8.539,0.0514,146.89,0.921,9
+Chandrabose Golden Memories,10,4SOZO2DJ79HIWW9mtMDrmb,"Ku Ku Ku Kulirudhu Dhegam(From""Vasanthi"")",spotify:track:4SOZO2DJ79HIWW9mtMDrmb,0.526,0.797,0.545,0.00568,0.0968,-10.354,0.0378,121.732,0.663,4
+Chandrabose Golden Memories,11,2czCVumZh5kzDcInsfMu2F,"Meesai Thudikuthamma(From""Vettaiyadu Vilayadu"")",spotify:track:2czCVumZh5kzDcInsfMu2F,0.991,0.682,0.39,0.895,0.118,-14.508,0.116,115.088,0.66,4
 Chandrabose Golden Memories,12,5y9yILDsf1sUfWgGLgJOi5,"Thangamani Rangamani(From""Viduthalai"")",spotify:track:5y9yILDsf1sUfWgGLgJOi5,0.857,0.759,0.475,0.000169,0.0773,-10.514,0.162,135.401,0.855,9
+The Essence of Bhagwad Gita,1,3oHFkJesxI5yDiDijQ4nJv,Mantra And Preface,spotify:track:3oHFkJesxI5yDiDijQ4nJv,0.799,0.63,0.245,0.0,0.179,-17.332,0.478,126.649,0.506,6
 The Essence of Bhagwad Gita,2,13ndJa64Z5ZKl8PnAQzk2e,"Chapter 1 - Observing The Armies - Shlokas 1, 27, 31",spotify:track:13ndJa64Z5ZKl8PnAQzk2e,0.787,0.604,0.234,0.0,0.115,-14.139,0.136,104.984,0.416,2
 The Essence of Bhagwad Gita,3,0kD9mOp94HUvW7EO7LZuid,"Chapter 2 - Geeta Saar - Shlokas 1,11,14,17,19,24,27,47,71",spotify:track:0kD9mOp94HUvW7EO7LZuid,0.806,0.55,0.249,0.0,0.0857,-13.085,0.183,100.857,0.351,2
 The Essence of Bhagwad Gita,4,6j84fPPd1K6WTLTFBbL7hV,"Chapter 3 - Karma Yoga - Shlokas 4,8,19,21,31,35,38,43",spotify:track:6j84fPPd1K6WTLTFBbL7hV,0.743,0.674,0.347,0.0,0.159,-9.412,0.0994,105.086,0.474,1
 The Essence of Bhagwad Gita,5,3n2KHNhsalwd4u9jT0Rqdg,"Chapter 4 - Transcendental Knowledge - Shlokas 7,8,11,17,21,40",spotify:track:3n2KHNhsalwd4u9jT0Rqdg,0.816,0.528,0.297,0.0,0.259,-9.948,0.137,150.215,0.406,0
+The Essence of Bhagwad Gita,6,4PxBzTp6epRKhgKPnmuadF,"Chapter 5 - Karma Yoga - Shlokas 6,7,17,19,24",spotify:track:4PxBzTp6epRKhgKPnmuadF,0.729,0.671,0.401,0.0,0.27,-9.471,0.2,119.549,0.604,1
+The Essence of Bhagwad Gita,7,0sqXzTUMMwKwZ2IufkuqcG,"Chapter 6 - Dhyan Yoga - Shlokas 1,4,5,36",spotify:track:0sqXzTUMMwKwZ2IufkuqcG,0.713,0.678,0.371,0.0,0.427,-11.325,0.192,119.751,0.344,0
 The Essence of Bhagwad Gita,8,5HS2TAsJr5QJdIQyse4VQD,"Chapter 7 - Knowledge Of The Absolute - Shlokas 4,7,8,10,16,17,21,26",spotify:track:5HS2TAsJr5QJdIQyse4VQD,0.784,0.544,0.262,0.0,0.159,-12.103,0.084,108.824,0.218,0
 The Essence of Bhagwad Gita,9,7yHPkNwDBm7FdFrEyE4mVh,"Chapter 8 - Attaining The Supreme - Shlokas 5,13,14,16",spotify:track:7yHPkNwDBm7FdFrEyE4mVh,0.835,0.574,0.301,0.0,0.114,-11.197,0.108,108.029,0.426,0
 The Essence of Bhagwad Gita,10,0rO7LbTA5qFS0ovGCb4Kg6,"Chapter 9 - The Most Confidential Knowledge - Shlokas 6,16,17,19,26,27,29,30,34",spotify:track:0rO7LbTA5qFS0ovGCb4Kg6,0.767,0.653,0.327,0.0,0.157,-9.295,0.173,119.683,0.39,0
 The Essence of Bhagwad Gita,11,5CUgbs4tr45x8GeaQMkr21,"Chapter 10 - The Oplulence Of The Absolute - Shlokas 3,20,39",spotify:track:5CUgbs4tr45x8GeaQMkr21,0.831,0.537,0.404,3.19e-06,0.186,-8.52,0.0559,118.852,0.558,0
 The Essence of Bhagwad Gita,12,15yW7JiI8ikuQxCWEcUsHQ,"Chapter 11 - Vishwaroop Darshan - Shlokas 7,8,10,24,45,51",spotify:track:15yW7JiI8ikuQxCWEcUsHQ,0.784,0.713,0.357,0.0,0.127,-9.392,0.142,119.593,0.291,0
 The Essence of Bhagwad Gita,13,0JVCVvBQxTO5Q1gKksdpNj,"Chapter 12 - Bhakti Yog - Shlokas 8,13,14",spotify:track:0JVCVvBQxTO5Q1gKksdpNj,0.827,0.721,0.326,2.18e-06,0.14,-9.698,0.0762,107.156,0.47,0
+The Essence of Bhagwad Gita,14,09kkDPIoqgLWxeGv1orqRJ,"Chapter 13 - Nature, The Enjoyer And Consciousness- Shlokas 34",spotify:track:09kkDPIoqgLWxeGv1orqRJ,0.837,0.564,0.348,0.0,0.125,-8.591,0.213,79.032,0.426,0
 The Essence of Bhagwad Gita,15,0yOZJOS1M9k9djVuKUwyIs,"Chapter 14 - The Three Modes Of Material Nature - Shlokas 2,9,14,15,17",spotify:track:0yOZJOS1M9k9djVuKUwyIs,0.875,0.671,0.277,0.0,0.195,-12.297,0.0911,110.099,0.447,0
 The Essence of Bhagwad Gita,16,3Ru7SC1rOpwVwUTchHsKiD,"Chapter 15 - The Yoga Of The Supreme Person - Shlokas 15,19",spotify:track:3Ru7SC1rOpwVwUTchHsKiD,0.862,0.58,0.331,0.0,0.175,-9.489,0.144,123.833,0.429,0
 The Essence of Bhagwad Gita,17,3LVmZVrX9Hk3gtwZgczgwe,"Chapter 16 - The Divine And The Demoniac Natures - Shlokas 16,19,22,24",spotify:track:3LVmZVrX9Hk3gtwZgczgwe,0.85,0.586,0.289,0.0,0.175,-10.108,0.136,120.053,0.507,0
+The Essence of Bhagwad Gita,18,1ax71wQ5TYBjgETJWaigyc,"Chapter 17 - The Divisions Of Faith - Shlokas - 3,11,12,13,16,20,28",spotify:track:1ax71wQ5TYBjgETJWaigyc,0.822,0.556,0.368,0.0,0.212,-9.93,0.196,149.299,0.432,0
 The Essence of Bhagwad Gita,19,2aBlYVskQW2IiCva8zS1lx,"Chapter 18 - The Perfection Of Renunciation - Shloas 5,7,11,46,56,62,66,70,71,78",spotify:track:2aBlYVskQW2IiCva8zS1lx,0.884,0.51,0.364,0.0,0.153,-8.964,0.153,149.582,0.4,0
+Maa Baba,1,1mOHWWijWrOHulxBMPAwB6,O Sai,spotify:track:1mOHWWijWrOHulxBMPAwB6,0.685,0.438,0.542,0.0,0.162,-8.04,0.0537,89.132,0.659,14
 Maa Baba,2,435LKb1DBZ1dbKrrtXeYh8,Sachcharitamu,spotify:track:435LKb1DBZ1dbKrrtXeYh8,0.696,0.673,0.495,0.0,0.419,-7.973,0.0448,144.63,0.812,3
 Maa Baba,3,23QjLENcWNstU9ICPUcRhk,Endukani,spotify:track:23QjLENcWNstU9ICPUcRhk,0.698,0.698,0.421,0.0,0.107,-8.292,0.0416,127.3,0.535,2
+Maa Baba,4,04lMgYpeEwjLRbkDYh58mm,Maa Sai,spotify:track:04lMgYpeEwjLRbkDYh58mm,0.67,0.522,0.517,0.0,0.223,-8.106,0.0509,88.966,0.71,20
 Maa Baba,5,0JVe38iqrRTh2mbOkBPvny,Kalavarapadaku,spotify:track:0JVe38iqrRTh2mbOkBPvny,0.702,0.527,0.432,0.0,0.152,-7.766,0.0379,134.09,0.417,2
 Banni Kannada Naadige,1,1f4d7nTQ74BZG16cvU0fKt,Kaliyoksulabha,spotify:track:1f4d7nTQ74BZG16cvU0fKt,0.307,0.835,0.521,1.04e-05,0.231,-11.448,0.0332,118.01,0.682,2
+Banni Kannada Naadige,2,2EbXlwvBFGstLUor3vQjO7,Kannada Thanavane,spotify:track:2EbXlwvBFGstLUor3vQjO7,0.552,0.638,0.482,0.0,0.275,-12.271,0.267,169.634,0.671,1
+Banni Kannada Naadige,3,551G8ySAsZgAqukWitEeVQ,Kannada Naadu Chinnada Beedu,spotify:track:551G8ySAsZgAqukWitEeVQ,0.518,0.776,0.61,0.00403,0.285,-9.155,0.042,117.716,0.772,1
 Banni Kannada Naadige,4,0vmeNCry3tCeWD4XCvQIDa,Vaaraha Dwajadadi,spotify:track:0vmeNCry3tCeWD4XCvQIDa,0.179,0.727,0.495,0.0,0.24,-10.977,0.0683,128.325,0.898,1
 Banni Kannada Naadige,5,0NGuzIyxVaSpjYIViiggw2,Yedukulastta Rajarella,spotify:track:0NGuzIyxVaSpjYIViiggw2,0.0668,0.878,0.47,0.0,0.3,-12.98,0.0783,110.04,0.717,0
 Banni Kannada Naadige,6,5z9W3FG1SL4rYBnLlfIrFI,Kannadambe,spotify:track:5z9W3FG1SL4rYBnLlfIrFI,0.32,0.561,0.472,0.0,0.212,-10.75,0.114,116.075,0.717,0
+Super Ton for Tms,1,14MDfUYv76DZqKw1QrMa82,Naan Anaiyittaal,spotify:track:14MDfUYv76DZqKw1QrMa82,0.715,0.412,0.729,0.000151,0.142,-5.781,0.0514,121.147,0.613,21
+Super Ton for Tms,2,0LTvokDJqBPCsDo9LJuxIY,Atho Andha Paravaipola,spotify:track:0LTvokDJqBPCsDo9LJuxIY,0.954,0.16,0.746,0.804,0.0832,-11.426,0.0671,157.904,0.625,24
+Super Ton for Tms,3,7jr6W0pAQE5ppMQ3NCUi4M,Unnai Arindhal,spotify:track:7jr6W0pAQE5ppMQ3NCUi4M,0.822,0.464,0.477,0.000317,0.127,-9.756,0.0884,135.246,0.545,22
+Super Ton for Tms,4,43M4NpHi0luiYFOrlGQjtX,Ennathaan Nadakkum,spotify:track:43M4NpHi0luiYFOrlGQjtX,0.86,0.463,0.46,0.446,0.392,-11.863,0.0808,68.768,0.817,20
+Super Ton for Tms,5,7rYeDNjQu6JZCZJpNQljND,Puthiya Vaanam,spotify:track:7rYeDNjQu6JZCZJpNQljND,0.944,0.407,0.696,3.22e-05,0.879,-7.271,0.041,135.919,0.61,21
+Super Ton for Tms,6,5Gx69Y6HaakAW5bSrQr7v3,Nenjam Undu,spotify:track:5Gx69Y6HaakAW5bSrQr7v3,0.76,0.536,0.728,0.339,0.347,-10.742,0.0555,120.116,0.73,2
+Super Ton for Tms,7,4N0o9BlHYLbaPqxGCTSi9w,Kann Pona Pokkile,spotify:track:4N0o9BlHYLbaPqxGCTSi9w,0.978,0.373,0.233,0.0222,0.617,-16.064,0.108,151.825,0.544,17
+Super Ton for Tms,8,3KC3N8OsyFxdD6bAp5VgQN,Naalai Namathe,spotify:track:3KC3N8OsyFxdD6bAp5VgQN,0.829,0.282,0.669,0.0432,0.219,-10.1,0.0774,144.889,0.606,19
+Super Ton for Tms,9,2ly2S1dxTGt1J63PXDMYMA,Kannai Namadhey,spotify:track:2ly2S1dxTGt1J63PXDMYMA,0.899,0.317,0.895,6.95e-05,0.512,-4.266,0.0855,181.436,0.832,21
+Super Ton for Tms,10,0hDiuBHRoTmKk645HONaZo,Yen Endra Kelvi,spotify:track:0hDiuBHRoTmKk645HONaZo,0.977,0.339,0.661,0.0618,0.175,-9.42,0.0488,130.993,0.733,20
 Spb - The Hard Hitter,1,24MqT35tz7l3drJBm5NVCS,Narasimha,spotify:track:24MqT35tz7l3drJBm5NVCS,0.362,0.665,0.87,6.9e-06,0.0783,-10.324,0.083,177.854,0.891,7
+Spb - The Hard Hitter,2,6OchgMrye5XI7NqbIz26G1,Aadhi Bikshuvu,spotify:track:6OchgMrye5XI7NqbIz26G1,0.844,0.523,0.558,0.0,0.0606,-6.388,0.0537,156.338,0.792,13
+Spb - The Hard Hitter,3,1nK3OrQ0fE57QaP67smB4S,Chinuku Chinuku,spotify:track:1nK3OrQ0fE57QaP67smB4S,0.938,0.541,0.378,0.032,0.129,-9.154,0.0455,112.649,0.596,4
 Spb - The Hard Hitter,4,1pip9rleyrNZD2dh2kXNkc,Nenoka Prama Pipaasini,spotify:track:1pip9rleyrNZD2dh2kXNkc,0.984,0.465,0.452,4.16e-06,0.162,-10.34,0.0524,115.731,0.49,8
+Spb - The Hard Hitter,5,5sPvJdUcN7Ye5KTqqNUeZL,Janani Janmabhoomisicha,spotify:track:5sPvJdUcN7Ye5KTqqNUeZL,0.839,0.521,0.625,0.00068,0.138,-5.915,0.0533,95.891,0.762,2
+Spb - The Hard Hitter,6,5uQGEVox5iy48RFANpQyV5,Krushivunte (Manishai Puttinavadu),spotify:track:5uQGEVox5iy48RFANpQyV5,0.98,0.467,0.439,0.000524,0.19,-13.565,0.0907,115.296,0.587,2
 Spb - The Hard Hitter,7,1luStxhdCyUWJrAnkZZFS9,Merise Tharalone,spotify:track:1luStxhdCyUWJrAnkZZFS9,0.879,0.49,0.406,9.79e-05,0.0795,-6.854,0.0383,131.299,0.459,5
+Spb - The Hard Hitter,8,2Niwy4m4gG5IHJ2yW5K1qY,Punnami Raathri,spotify:track:2Niwy4m4gG5IHJ2yW5K1qY,0.99,0.438,0.526,0.0371,0.375,-4.458,0.0295,122.087,0.53,3
+Spb - The Hard Hitter,9,42ZKPFMWR9yMPTiTa8TR90,Kurraallu,spotify:track:42ZKPFMWR9yMPTiTa8TR90,0.927,0.275,0.726,0.762,0.516,-13.766,0.126,77.303,0.352,3
+Spb - The Hard Hitter,10,1XrFipRVuHmZgxRvAK8P7t,Ye Divilo Virisina,spotify:track:1XrFipRVuHmZgxRvAK8P7t,0.833,0.479,0.587,2.44e-05,0.314,-4.693,0.0284,109.568,0.448,11
 S P Balasubramanyam Kannada Ayyappa,1,03wsNQpkNGUH1cDqxj8Hhp,Pampaganapathi,spotify:track:03wsNQpkNGUH1cDqxj8Hhp,0.092,0.629,0.848,2.85e-06,0.0842,-6.576,0.105,162.034,0.834,4
 S P Balasubramanyam Kannada Ayyappa,2,5SGWXWiwTBQwuLnjpGXzTc,Nanndeha Ayyappa,spotify:track:5SGWXWiwTBQwuLnjpGXzTc,0.168,0.677,0.735,0.0,0.11,-6.626,0.0646,145.519,0.882,3
 S P Balasubramanyam Kannada Ayyappa,3,3QcsNAsuI56oUbKk0wxgFH,Swamisaranam,spotify:track:3QcsNAsuI56oUbKk0wxgFH,0.0702,0.652,0.903,0.0,0.0434,-5.246,0.0931,81.007,0.893,3
 S P Balasubramanyam Kannada Ayyappa,4,7aRnHo5wBvO3Kly1KoANvg,He Pulivahana,spotify:track:7aRnHo5wBvO3Kly1KoANvg,0.114,0.587,0.447,0.0,0.438,-7.8,0.0363,135.964,0.618,2
+S P Balasubramanyam Kannada Ayyappa,5,6Bfn58A8pmMLpyBe6Eao14,Hechivapona,spotify:track:6Bfn58A8pmMLpyBe6Eao14,0.141,0.646,0.983,1.36e-06,0.0693,-5.352,0.343,78.022,0.571,2
 S P Balasubramanyam Kannada Ayyappa,6,4JLmfZi9SvfCbKoGLa50Y4,Sabarimala,spotify:track:4JLmfZi9SvfCbKoGLa50Y4,0.637,0.631,0.474,3.19e-06,0.104,-5.561,0.0261,135.054,0.613,5
 S P Balasubramanyam Kannada Ayyappa,7,0g1bN9tK2leVi0h7B484Jf,Manasentha,spotify:track:0g1bN9tK2leVi0h7B484Jf,0.316,0.477,0.703,0.0,0.134,-4.883,0.0476,169.821,0.732,2
 S P Balasubramanyam Kannada Ayyappa,8,4WrriDSkTKWJfMHlSYRH5c,Karpooradeepatha,spotify:track:4WrriDSkTKWJfMHlSYRH5c,0.143,0.602,0.451,0.0,0.234,-8.049,0.0299,140.013,0.589,1
@@ -38,19 +81,29 @@ S P Balasubramanyam Kannada Ayyappa,9,5jGkicCZ9sktCR1ROKu4wq,Sabarimalai,spotify
 S P Balasubramanyam Telugu Ayyappa,1,5XFLoekwVqDIIW93UubbIE,Mayamohini,spotify:track:5XFLoekwVqDIIW93UubbIE,0.245,0.673,0.766,0.0,0.102,-6.552,0.0585,145.561,0.881,5
 S P Balasubramanyam Telugu Ayyappa,2,7AyYroGA2Nww8rPCZAhElW,Swamisarnam,spotify:track:7AyYroGA2Nww8rPCZAhElW,0.0565,0.687,0.904,0.0,0.0744,-5.241,0.106,81.033,0.857,5
 S P Balasubramanyam Telugu Ayyappa,3,69MhP1JNeYVvewcmU5NwqZ,Sardhoola Vahana,spotify:track:69MhP1JNeYVvewcmU5NwqZ,0.0901,0.578,0.451,0.0,0.438,-7.55,0.0381,136.147,0.647,4
+S P Balasubramanyam Telugu Ayyappa,4,4LIiZy7zrNHXSVCQ5U8Tuz,Veechana,spotify:track:4LIiZy7zrNHXSVCQ5U8Tuz,0.153,0.653,0.981,0.0,0.0745,-5.348,0.307,77.987,0.526,4
 S P Balasubramanyam Telugu Ayyappa,5,0ZRwtydN0CQJ8P0qjKbmeG,Ayyappanu,spotify:track:0ZRwtydN0CQJ8P0qjKbmeG,0.561,0.625,0.466,0.0,0.0751,-5.895,0.0266,135.045,0.588,3
 S P Balasubramanyam Telugu Ayyappa,6,7mW0IJ1MizEp2u90gV20b2,Mahashimardana Swami,spotify:track:7mW0IJ1MizEp2u90gV20b2,0.267,0.501,0.727,0.0,0.172,-5.098,0.0566,170.134,0.746,3
 S P Balasubramanyam Telugu Ayyappa,7,5btRcw4gj5EBndjWLpi7uh,Neemunandana,spotify:track:5btRcw4gj5EBndjWLpi7uh,0.177,0.561,0.456,0.0,0.257,-7.746,0.0287,140.035,0.585,3
+S P Balasubramanyam Telugu Ayyappa,8,0pcMaa7WWh9G54jpG40zBa,Sabarigiri,spotify:track:0pcMaa7WWh9G54jpG40zBa,0.192,0.675,0.959,0.0,0.031,-4.711,0.216,75.944,0.854,3
 Top - 20 S.P.B Super Hit Songs,1,1WvjyexB2KzmvvM9bGVeeP,"Kanadakagi Janana (From ""Annavaru"")",spotify:track:1WvjyexB2KzmvvM9bGVeeP,0.42,0.742,0.767,2.94e-06,0.353,-8.054,0.0633,94.95,0.887,5
 Top - 20 S.P.B Super Hit Songs,2,7oIvORsl4NXBrh6IIVKv1g,"Collegegu Thanks (From ""Joot"")",spotify:track:7oIvORsl4NXBrh6IIVKv1g,0.221,0.784,0.549,8.49e-06,0.372,-11.541,0.106,97.024,0.671,3
+Top - 20 S.P.B Super Hit Songs,3,3ckORYoO64EUoQlEt4kA2Y,"Chanda Srigandha (From ""Prema Khaidi"")",spotify:track:3ckORYoO64EUoQlEt4kA2Y,0.299,0.689,0.703,0.0,0.274,-8.817,0.268,67.564,0.669,2
 Top - 20 S.P.B Super Hit Songs,4,0kGt0GOse6ZjkuWxFZ3HUU,"Havina Davesha (From ""Nagara Havu"")",spotify:track:0kGt0GOse6ZjkuWxFZ3HUU,0.0994,0.6,0.747,1.62e-05,0.253,-11.396,0.125,83.997,0.353,2
+Top - 20 S.P.B Super Hit Songs,5,1bW2gNfHwbeggIMvzbTzjk,"Yelumale Malere (From ""Jogi"")",spotify:track:1bW2gNfHwbeggIMvzbTzjk,0.487,0.629,0.851,0.0,0.354,-7.511,0.214,138.953,0.607,4
 Top - 20 S.P.B Super Hit Songs,6,0GOLg1Aujwx6sSKkIUtODc,"Naa Haduve (From ""Premigaagina"")",spotify:track:0GOLg1Aujwx6sSKkIUtODc,0.293,0.376,0.621,0.0,0.11,-9.257,0.1,145.937,0.477,1
+Top - 20 S.P.B Super Hit Songs,7,5bB2AWcahhyNaVrlTsHROr,"Sahasa (From ""Aajay"")",spotify:track:5bB2AWcahhyNaVrlTsHROr,0.00499,0.604,0.71,0.0575,0.109,-13.197,0.0487,132.004,0.389,1
 Top - 20 S.P.B Super Hit Songs,8,37JuNJ82sUtrhaBtXmxjYi,"Neenilde Nanu Illakane (From ""Neenilde Nanu Illakane"")",spotify:track:37JuNJ82sUtrhaBtXmxjYi,0.393,0.513,0.323,4.61e-06,0.358,-14.426,0.0434,150.118,0.533,0
 Top - 20 S.P.B Super Hit Songs,9,4o3M63tC2whkBzZukMvSnf,"Neeandre Naguista (From ""Prema Khaidi"")",spotify:track:4o3M63tC2whkBzZukMvSnf,0.0433,0.594,0.685,1.81e-06,0.268,-11.463,0.0534,105.017,0.705,1
 Top - 20 S.P.B Super Hit Songs,10,7Gy4NvIcVwDfH8WH9qs9Bk,"Chamk Chamk (From ""Premakke Sai"")",spotify:track:7Gy4NvIcVwDfH8WH9qs9Bk,0.404,0.514,0.564,2.19e-06,0.237,-14.123,0.15,87.438,0.83,0
 Top - 20 S.P.B Super Hit Songs,11,3FCs681uxnIpNx1fW3A0GL,"Punyakane Punyakane (From ""Jothe Jotheyali"")",spotify:track:3FCs681uxnIpNx1fW3A0GL,0.25,0.553,0.448,5.02e-05,0.452,-10.853,0.0416,82.506,0.464,1
+Top - 20 S.P.B Super Hit Songs,12,0UaW77TgEC4yqrPLp4UanE,"Jinu Jinugo (From ""Kanti"")",spotify:track:0UaW77TgEC4yqrPLp4UanE,0.214,0.672,0.817,0.00138,0.23,-8.813,0.0496,103.959,0.523,3
+Top - 20 S.P.B Super Hit Songs,13,66tFz2EiKdWR7DSeAHEnDF,"Hrudayada Olage Hruda (From ""Kariya"")",spotify:track:66tFz2EiKdWR7DSeAHEnDF,0.189,0.67,0.837,0.0185,0.0846,-9.31,0.0607,99.032,0.851,8
 Top - 20 S.P.B Super Hit Songs,14,5AKwTaYrEzfjCZ15UY7weK,"Priya Priya (From ""Rajanarasimha"")",spotify:track:5AKwTaYrEzfjCZ15UY7weK,0.248,0.658,0.7,1.94e-06,0.28,-9.816,0.087,90.98,0.351,1
+Top - 20 S.P.B Super Hit Songs,15,00JhH0y7i5tyMnt2TXDURi,"Prema Prema (From ""Kanchanaganga"")",spotify:track:00JhH0y7i5tyMnt2TXDURi,0.349,0.581,0.689,0.0,0.346,-10.131,0.26,173.849,0.825,0
 Top - 20 S.P.B Super Hit Songs,16,24viLxXyPx3sD6KD0bR7oG,"Ondu Unime Chandra (From ""Muthu"")",spotify:track:24viLxXyPx3sD6KD0bR7oG,0.214,0.806,0.601,4.33e-05,0.0472,-12.19,0.0673,97.98,0.68,0
+Top - 20 S.P.B Super Hit Songs,17,5YP2F6YTz1ATfxNG9rRIcG,"Naane Naane (From ""Rajanarasimha"")",spotify:track:5YP2F6YTz1ATfxNG9rRIcG,0.292,0.619,0.963,0.000134,0.591,-6.835,0.16,78.648,0.55,0
+Top - 20 S.P.B Super Hit Songs,18,62i9MkGsu6t3U4S5a8sFX8,"Ganapathi Bappa (From ""Ekadantha"")",spotify:track:62i9MkGsu6t3U4S5a8sFX8,0.707,0.582,0.908,6.47e-05,0.597,-8.664,0.253,187.415,0.866,1
 Top - 20 S.P.B Super Hit Songs,19,1QQPwezoDQLREIQSR0CFu4,"Yello Adu Yello (From ""Kanasugara"")",spotify:track:1QQPwezoDQLREIQSR0CFu4,0.444,0.716,0.482,0.0,0.113,-13.249,0.0824,79.953,0.797,4
 Top - 20 S.P.B Super Hit Songs,20,1NL4pj2BlD7zhEgOYLbISz,"Chaluve Banalu (From ""Banalu Neene Bhuviellu Neene"")",spotify:track:1NL4pj2BlD7zhEgOYLbISz,0.781,0.361,0.419,1.73e-06,0.136,-10.293,0.0466,84.876,0.555,0
 Top 100 Songs - SPB,1,0a8pnsGcFMb5X34X9mZvci,Dhim Takita,spotify:track:0a8pnsGcFMb5X34X9mZvci,0.681,0.66,0.737,1.21e-05,0.302,-5.774,0.0946,179.92,0.905,6
@@ -59,30 +112,75 @@ Top 100 Songs - SPB,3,4E6NSZHOTg5RAMDt3oiDgy,Thavarige Baa Thangi,spotify:track:
 Top 100 Songs - SPB,4,3raWyKRQWAjHhwAC2Z9IBH,Ago Ago Kogile,spotify:track:3raWyKRQWAjHhwAC2Z9IBH,0.21,0.522,0.737,0.0,0.239,-6.524,0.123,157.225,0.748,2
 Top 100 Songs - SPB,5,5PoHNAePFhVNwmQ45JPS3K,Jai Hind Jai Hind,spotify:track:5PoHNAePFhVNwmQ45JPS3K,0.186,0.719,0.883,7.2e-05,0.332,-4.957,0.185,113.896,0.223,3
 Top 100 Songs - SPB,6,4TmIA58sG21fpSVo30nGeY,Baare Baa Baare,spotify:track:4TmIA58sG21fpSVo30nGeY,0.361,0.592,0.515,5.36e-06,0.17,-7.242,0.0335,169.878,0.478,1
+Top 100 Songs - SPB,7,16vAtU9dZ9F5gJBVVPsggn,Mama Mama Masti,spotify:track:16vAtU9dZ9F5gJBVVPsggn,0.306,0.879,0.8,2.43e-05,0.168,-5.454,0.146,91.999,0.53,11
 Top 100 Songs - SPB,8,4BmhMHkxV4L0Hl2YC3hqxY,Nee Jothe Iruveya,spotify:track:4BmhMHkxV4L0Hl2YC3hqxY,0.745,0.472,0.729,6.76e-05,0.143,-6.151,0.0419,102.064,0.54,1
 Top 100 Songs - SPB,9,5TRK661yVTuwHRQVCA1F2z,Chilli Chilli Pilli,spotify:track:5TRK661yVTuwHRQVCA1F2z,0.46,0.68,0.61,0.000141,0.225,-7.53,0.0398,97.957,0.461,1
+Top 100 Songs - SPB,10,7dfXCYF4wI91xPh8e3NN5H,Ravivarma Baaro,spotify:track:7dfXCYF4wI91xPh8e3NN5H,0.473,0.676,0.782,0.00173,0.381,-6.938,0.0444,91.956,0.913,1
 Top 100 Songs - SPB,11,0MTl7ThUA2FOjm6AA56030,Yava Shilpi,spotify:track:0MTl7ThUA2FOjm6AA56030,0.5,0.711,0.702,0.0,0.415,-7.161,0.105,95.025,0.642,1
 Top 100 Songs - SPB,12,5c0BuJxaHMuwSECS6PrzYQ,Shalege Ee Dina,spotify:track:5c0BuJxaHMuwSECS6PrzYQ,0.685,0.794,0.839,6.9e-05,0.103,-5.255,0.0519,144.763,0.838,8
 Top 100 Songs - SPB,13,5vUrUi9NFugUc33A1NKCHE,Cheluveye Ninne Nodalu,spotify:track:5vUrUi9NFugUc33A1NKCHE,0.803,0.447,0.251,0.0,0.0425,-10.943,0.0311,170.012,0.215,8
 Top 100 Songs - SPB,14,0NGo32xKMCcLw5Hul3RTZN,Deepavali,spotify:track:0NGo32xKMCcLw5Hul3RTZN,0.256,0.769,0.78,3.32e-05,0.0823,-4.872,0.0427,101.354,0.729,1
 Top 100 Songs - SPB,15,15s9eFBCFonattFsLzSS3e,Nungona Baa,spotify:track:15s9eFBCFonattFsLzSS3e,0.408,0.84,0.744,3e-05,0.314,-6.833,0.123,113.907,0.601,1
 Top 100 Songs - SPB,16,47q4l9RH9sTzXkge4bcJ7X,I Love You Andarenu,spotify:track:47q4l9RH9sTzXkge4bcJ7X,0.148,0.725,0.52,5.52e-06,0.0603,-9.101,0.0586,131.928,0.59,1
+Top 100 Songs - SPB,17,6I4omJ9IY3f6RbEZxDOfaO,Foreign Hechcho,spotify:track:6I4omJ9IY3f6RbEZxDOfaO,0.223,0.785,0.824,0.0,0.152,-5.496,0.195,98.995,0.806,0
+Top 100 Songs - SPB,18,6uFqsGjBkdkG7ZqT3HQBdn,Police Yendare,spotify:track:6uFqsGjBkdkG7ZqT3HQBdn,0.109,0.783,0.669,2.95e-06,0.253,-6.115,0.276,89.978,0.528,0
 Top 100 Songs - SPB,19,0joW3IPfI6m0pWqo8bTvRT,Kamalamukhi,spotify:track:0joW3IPfI6m0pWqo8bTvRT,0.392,0.846,0.81,5.2e-06,0.112,-6.043,0.168,128.007,0.889,0
 Top 100 Songs - SPB,20,4fKGgA4fgXEuGHQwKHhEp0,Ee Kalpane,spotify:track:4fKGgA4fgXEuGHQwKHhEp0,0.0667,0.781,0.6,0.0,0.214,-7.475,0.0401,87.297,0.595,0
 Top 100 Songs - SPB,21,1PN819WHdhepoPBHoYnNCz,Malligeye Malligeye,spotify:track:1PN819WHdhepoPBHoYnNCz,0.455,0.727,0.655,3.2e-06,0.138,-7.351,0.052,78.809,0.669,1
+Top 100 Songs - SPB,22,46GCQ3f5k8Avz2G7scIWPp,Shivappa O Shivappa,spotify:track:46GCQ3f5k8Avz2G7scIWPp,0.504,0.751,0.735,0.000101,0.455,-7.693,0.105,104.49,0.89,0
+Top 100 Songs - SPB,23,4RQEuyrZOUyUs5Z84Gd9fj,Puttanarasa,spotify:track:4RQEuyrZOUyUs5Z84Gd9fj,0.291,0.668,0.746,6.63e-05,0.43,-6.955,0.261,169.972,0.839,0
+Top 100 Songs - SPB,24,2imHc5B1F9CfSlUDznCBuZ,Ee Bhoomilli,spotify:track:2imHc5B1F9CfSlUDznCBuZ,0.156,0.743,0.561,5.75e-06,0.172,-8.55,0.0484,99.852,0.713,1
+Top 100 Songs - SPB,25,4m3xkYCeBfp9UsDQZPHgxe,Shrungara Kavyavo,spotify:track:4m3xkYCeBfp9UsDQZPHgxe,0.346,0.712,0.495,3.09e-05,0.266,-8.229,0.0451,94.914,0.55,4
+Top 100 Songs - SPB,26,6nrl0YwRm8JVVh3pv3CDmt,Pada Pada Seri,spotify:track:6nrl0YwRm8JVVh3pv3CDmt,0.344,0.662,0.782,1.63e-05,0.0884,-5.508,0.0712,84.856,0.803,1
+Top 100 Songs - SPB,27,7J80JO70ETVxgj8WLqKugJ,Kanyamani Kanthamani,spotify:track:7J80JO70ETVxgj8WLqKugJ,0.656,0.852,0.875,0.0,0.325,-7.421,0.0566,127.607,0.758,0
+Top 100 Songs - SPB,28,7KYS9qz9QzjxlvLYPI4haI,Bandhana Baalige,spotify:track:7KYS9qz9QzjxlvLYPI4haI,0.27,0.644,0.463,1.97e-06,0.118,-8.901,0.0352,157.885,0.522,0
+Top 100 Songs - SPB,29,3I40ZhlLjnOLaR5uYW12iu,Kamana Makkalu,spotify:track:3I40ZhlLjnOLaR5uYW12iu,0.305,0.521,0.942,3.23e-06,0.405,-6.358,0.148,194.168,0.69,0
+Top 100 Songs - SPB,30,5t77nq8Ra1ODQylaP8rAX1,Yenri Idu Yenri,spotify:track:5t77nq8Ra1ODQylaP8rAX1,0.781,0.626,0.64,2.99e-05,0.122,-7.339,0.0661,137.749,0.489,0
+Top 100 Songs - SPB,31,23YgnNLC9bVYm7QxVYVgLX,Prema Chandrama Pathos,spotify:track:23YgnNLC9bVYm7QxVYVgLX,0.339,0.815,0.68,1.84e-05,0.183,-7.189,0.0463,114.886,0.522,12
+Top 100 Songs - SPB,32,6XHKyMxKqCHxONILP9OoXL,Kaarubaru,spotify:track:6XHKyMxKqCHxONILP9OoXL,0.0766,0.806,0.808,0.0,0.111,-9.161,0.317,158.063,0.84,0
+Top 100 Songs - SPB,33,5nyuunvhcGq7mEi7tymYzd,Baalige Obbale,spotify:track:5nyuunvhcGq7mEi7tymYzd,0.5,0.692,0.665,5.28e-06,0.163,-6.257,0.051,132.691,0.557,0
+Top 100 Songs - SPB,34,3s1UL7fj3YExALEXwxBBH5,Ammamo Mademu,spotify:track:3s1UL7fj3YExALEXwxBBH5,0.497,0.808,0.78,0.139,0.0779,-7.984,0.0553,125.882,0.425,0
+Top 100 Songs - SPB,35,0Y2XoW2dzKONoKnloWyUK0,Daddy Daddy,spotify:track:0Y2XoW2dzKONoKnloWyUK0,0.148,0.855,0.896,0.000388,0.328,-4.825,0.0495,117.947,0.87,0
+Top 100 Songs - SPB,36,4E8NXmmNJjtbkVi3Kx9rCH,Bartha Bartha,spotify:track:4E8NXmmNJjtbkVi3Kx9rCH,0.472,0.91,0.721,0.266,0.178,-6.718,0.0408,99.889,0.943,0
+Top 100 Songs - SPB,37,4pjE6sorCmFRQ8glLqSVD0,Thirugo Bhoomi,spotify:track:4pjE6sorCmFRQ8glLqSVD0,0.606,0.614,0.829,0.0,0.832,-7.187,0.131,86.989,0.868,2
+Hum Aapke Hain Koun - Jhankar Beats,1,1iWGYHRZ371PqDxroPfFq1,Didi Tera Devar Deewana - Jhankar Beats,spotify:track:1iWGYHRZ371PqDxroPfFq1,0.126,0.768,0.692,0.456,0.252,-10.991,0.043,102.361,0.902,3
+Hum Aapke Hain Koun - Jhankar Beats,2,2wZ4zqhhxApnKbvuTKDD0E,Pehla Pehla Pyar - Jhankar Beats,spotify:track:2wZ4zqhhxApnKbvuTKDD0E,0.438,0.793,0.619,0.379,0.0948,-11.485,0.0446,101.05,0.66,3
+Hum Aapke Hain Koun - Jhankar Beats,3,4RqITeVmEPtwz7qCvDW1WA,Aaj Hamare Dil Mein - Jhankar Beats,spotify:track:4RqITeVmEPtwz7qCvDW1WA,0.0326,0.676,0.753,0.0123,0.106,-11.149,0.0378,122.592,0.97,2
+Hum Aapke Hain Koun - Jhankar Beats,4,0zRG8v1FWzZSoXCGBjT5Bz,Mausam Ka Jaadu - Jhankar Beats,spotify:track:0zRG8v1FWzZSoXCGBjT5Bz,0.0659,0.631,0.719,0.000702,0.135,-10.286,0.101,175.269,0.944,1
+Hum Aapke Hain Koun - Jhankar Beats,5,44l0x2YOlMJYRIqCHhFCwg,Dhiktana - Jhankar Beats,spotify:track:44l0x2YOlMJYRIqCHhFCwg,0.0374,0.792,0.78,0.011,0.299,-10.449,0.0737,93.889,0.96,1
+Hum Aapke Hain Koun - Jhankar Beats,6,0inzoVulDS5doN58IxSWgj,Wah Wah Ramji - Jhankar Beats,spotify:track:0inzoVulDS5doN58IxSWgj,0.0344,0.736,0.67,0.000493,0.288,-11.694,0.0578,139.859,0.954,1
+Hum Aapke Hain Koun - Jhankar Beats,7,6dXM3t9E9nm8ASjDGzfJ3j,Hum Aapke Hain Koun - Jhankar Beats,spotify:track:6dXM3t9E9nm8ASjDGzfJ3j,0.604,0.771,0.706,0.699,0.195,-11.115,0.0394,115.454,0.806,1
+Hum Aapke Hain Koun - Jhankar Beats,8,2zKn0uKDZXqJPcZ3LnXIbL,Mujhse Juda Hokar - Jhankar Beats,spotify:track:2zKn0uKDZXqJPcZ3LnXIbL,0.0121,0.626,0.708,0.000776,0.267,-11.262,0.0669,159.748,0.835,1
+Hum Aapke Hain Koun - Jhankar Beats,9,0e2P8TzoxrpiJFQHEXiKN7,Maye Ni Maye - Jhankar Beats,spotify:track:0e2P8TzoxrpiJFQHEXiKN7,0.459,0.661,0.687,0.368,0.0725,-10.801,0.0808,166.147,0.809,2
+Hum Aapke Hain Koun - Jhankar Beats,10,3SKEkQL7vyfBohV9rRlSB8,Chocolate Lime Juice - Jhankar Beats,spotify:track:3SKEkQL7vyfBohV9rRlSB8,0.115,0.742,0.87,0.601,0.119,-10.226,0.0575,126.533,0.825,0
+Hum Aapke Hain Koun - Jhankar Beats,11,6hzPbpDooxA1YG37ujGxv8,Joote De Do Paise Le Lo - Jhankar Beats,spotify:track:6hzPbpDooxA1YG37ujGxv8,0.293,0.809,0.762,0.573,0.25,-10.732,0.0573,100.598,0.932,5
 Hum Aapke Hain Koun - Jhankar Beats,12,3Cowc0fgeMLdVJVF2HR9eb,Lo Chali Main - Jhankar Beats,spotify:track:3Cowc0fgeMLdVJVF2HR9eb,0.0756,0.661,0.459,2.31e-05,0.108,-11.572,0.12,158.355,0.945,1
+Swara Sangeethotsava - SPB And K.S Chithra Hits,1,6XthevpxqxObZF60uafCSP,Yamini Yamini,spotify:track:6XthevpxqxObZF60uafCSP,0.316,0.681,0.693,0.0,0.293,-7.195,0.0522,85.993,0.514,19
 Swara Sangeethotsava - SPB And K.S Chithra Hits,2,7qPjPdPvh97mC8i5oG4oGA,Andhu Megha Sandesha,spotify:track:7qPjPdPvh97mC8i5oG4oGA,0.561,0.5,0.491,2.84e-06,0.316,-5.892,0.031,175.981,0.473,10
+Swara Sangeethotsava - SPB And K.S Chithra Hits,3,4BVYVyo9wriZ2wT3WUQysS,Dhir Dhir Tillana,spotify:track:4BVYVyo9wriZ2wT3WUQysS,0.00707,0.745,0.709,5.33e-06,0.325,-6.525,0.0526,121.893,0.732,29
+Swara Sangeethotsava - SPB And K.S Chithra Hits,4,5Dp5JCnrzGdF8PT4mYmEHp,Halli Haadu,spotify:track:5Dp5JCnrzGdF8PT4mYmEHp,0.756,0.698,0.626,0.000161,0.636,-6.473,0.0375,102.482,0.546,21
 Swara Sangeethotsava - SPB And K.S Chithra Hits,5,59qECinoKHpBRfqYFGYg0D,Belli Gejje,spotify:track:59qECinoKHpBRfqYFGYg0D,0.539,0.62,0.597,0.0,0.441,-5.847,0.0482,151.926,0.486,5
 Swara Sangeethotsava - SPB And K.S Chithra Hits,6,2g83t8kj3CGIC9ZEXWv91L,Baalige Obbale,spotify:track:2g83t8kj3CGIC9ZEXWv91L,0.5,0.695,0.721,3.65e-06,0.16,-4.388,0.0513,132.7,0.556,5
 Swara Sangeethotsava - SPB And K.S Chithra Hits,7,5aL8XVIpMBPiiJdvkFRtmg,Pada Pada Seri,spotify:track:5aL8XVIpMBPiiJdvkFRtmg,0.347,0.663,0.801,1.78e-05,0.0849,-5.085,0.071,84.85,0.786,6
+Swara Sangeethotsava - SPB And K.S Chithra Hits,8,5yPsMbdcSEf7rnhPIgmaSk,Preetsona Baa,spotify:track:5yPsMbdcSEf7rnhPIgmaSk,0.1,0.795,0.96,0.00196,0.0542,-5.638,0.0884,115.007,0.63,4
+Swara Sangeethotsava - SPB And K.S Chithra Hits,9,06amTAeQdq6k2y0wq81o3N,Ravivarma Baaro,spotify:track:06amTAeQdq6k2y0wq81o3N,0.467,0.704,0.796,0.00185,0.399,-6.528,0.0417,91.993,0.917,6
+Swara Sangeethotsava - SPB And K.S Chithra Hits,10,1DwfWkMVVPRJLkZXPyP4c8,Nimbe Nimbe,spotify:track:1DwfWkMVVPRJLkZXPyP4c8,0.398,0.786,0.791,0.0,0.146,-5.195,0.207,71.891,0.85,4
 Swara Sangeethotsava - SPB And K.S Chithra Hits,11,25XwmGii3xgQFF6DZGr0PI,Thavarige Baa Thangi,spotify:track:25XwmGii3xgQFF6DZGr0PI,0.67,0.572,0.649,1.24e-06,0.157,-6.512,0.0612,86.928,0.401,6
 Swara Sangeethotsava - SPB And K.S Chithra Hits,12,3UlJDVvsU01WrcjKnYOf1e,Chukki Chukki,spotify:track:3UlJDVvsU01WrcjKnYOf1e,0.137,0.816,0.801,0.0,0.189,-4.891,0.117,107.958,0.792,4
+Swara Sangeethotsava - SPB And K.S Chithra Hits,13,1LrgXcMRmfSYAqAU7klo0C,Laaliya Thumba,spotify:track:1LrgXcMRmfSYAqAU7klo0C,0.843,0.641,0.445,0.000435,0.249,-6.986,0.0295,134.956,0.461,7
 Swara Sangeethotsava - SPB And K.S Chithra Hits,14,3drRVUFGyE5WXnMk4vkaRq,Nanna Manasina,spotify:track:3drRVUFGyE5WXnMk4vkaRq,0.575,0.748,0.666,2.42e-06,0.143,-6.222,0.0286,118.093,0.763,3
 Swara Sangeethotsava - SPB And K.S Chithra Hits,15,5qePq9yO2pANxxd0W5II2T,Dhim Dhim,spotify:track:5qePq9yO2pANxxd0W5II2T,0.498,0.648,0.705,4.86e-06,0.337,-6.97,0.0514,95.911,0.517,3
 Swara Sangeethotsava - SPB And K.S Chithra Hits,16,1qbyIW33hqrzhUDuzlGvZT,Ee Kalpane,spotify:track:1qbyIW33hqrzhUDuzlGvZT,0.065,0.783,0.616,0.0,0.249,-6.928,0.0388,87.352,0.6,3
 Swara Sangeethotsava - SPB And K.S Chithra Hits,17,2pL0GjNUO6e1wdjUUUGL2A,Sarigama[Duet],spotify:track:2pL0GjNUO6e1wdjUUUGL2A,0.292,0.707,0.618,1.98e-06,0.112,-7.627,0.0417,129.999,0.544,10
+Swara Sangeethotsava - SPB And K.S Chithra Hits,18,6c0MgC5tQigtI0wvORzj0D,Dede Dede,spotify:track:6c0MgC5tQigtI0wvORzj0D,0.373,0.833,0.714,7.77e-05,0.11,-7.333,0.204,140.008,0.916,2
 Swara Sangeethotsava - SPB And K.S Chithra Hits,19,78QSv5jsJEGCucBL7uvhkm,Kanchana Mina Mina,spotify:track:78QSv5jsJEGCucBL7uvhkm,0.57,0.609,0.69,0.0,0.356,-6.428,0.0377,85.511,0.725,2
 Swara Sangeethotsava - SPB And K.S Chithra Hits,20,5nik1GwasWGSCVOkN42e77,Yenri Idu Yenri,spotify:track:5nik1GwasWGSCVOkN42e77,0.78,0.634,0.653,2.13e-05,0.123,-6.911,0.0603,137.879,0.489,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,21,6yZhckpx17ZPjFEYQD7lai,Tumbu Chandra,spotify:track:6yZhckpx17ZPjFEYQD7lai,0.316,0.738,0.656,0.000355,0.0479,-5.304,0.0381,152.492,0.565,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,22,5TKNGG0arlVTOGHmqzVWnW,Thayi Thande Yemba,spotify:track:5TKNGG0arlVTOGHmqzVWnW,0.0469,0.8,0.747,0.0,0.377,-5.997,0.0521,110.013,0.695,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,23,0nEJtPrh4rq3TcdLWNdVPU,Chilli Chilli Pilli,spotify:track:0nEJtPrh4rq3TcdLWNdVPU,0.476,0.679,0.63,0.000118,0.237,-7.116,0.0406,97.949,0.457,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,24,6r4eKMkDKPKPDBNS76XKOt,Thangaali Thandide,spotify:track:6r4eKMkDKPKPDBNS76XKOt,0.289,0.616,0.604,2.07e-06,0.219,-7.66,0.0365,111.951,0.411,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,25,3O9ZIBTYbTN4X92vVMTlOI,Karirulige,spotify:track:3O9ZIBTYbTN4X92vVMTlOI,0.717,0.632,0.611,3.69e-06,0.215,-6.25,0.053,146.899,0.526,2
+Swara Sangeethotsava - SPB And K.S Chithra Hits,26,2vH2FLTRgINHObqrg8X1MY,Onde Suryana Suththidikke,spotify:track:2vH2FLTRgINHObqrg8X1MY,0.425,0.778,0.762,0.0,0.4,-7.033,0.0485,129.992,0.863,2
 Aanada Srinivasam,1,1fhkMvpPFErxY61gHo55c8,Andakheeyam,spotify:track:1fhkMvpPFErxY61gHo55c8,0.716,0.542,0.365,0.0,0.101,-8.956,0.0327,99.318,0.585,0
 Aanada Srinivasam,2,2XpfQXk6u5XzS8NnTMoGyF,Bangaru Vakilini,spotify:track:2XpfQXk6u5XzS8NnTMoGyF,0.621,0.639,0.393,0.0,0.064,-8.825,0.0255,95.052,0.613,0
 Aanada Srinivasam,3,2kuTrYOIDPoaojAhE04TSN,Deva Karunamaya,spotify:track:2kuTrYOIDPoaojAhE04TSN,0.739,0.71,0.43,0.0,0.293,-9.206,0.0408,99.991,0.644,0
@@ -100,14 +198,17 @@ Manukulada Daiva Manjunatha,4,0smT8a2crjHEjkZuXSrhPL,Dayaye Dharmada Mulla,spoti
 Manukulada Daiva Manjunatha,5,1PUsBjhorSKWCPWRHmjWlu,Chandrashekara Ninna,spotify:track:1PUsBjhorSKWCPWRHmjWlu,0.419,0.643,0.45,1.35e-05,0.0569,-11.56,0.0409,81.938,0.899,0
 Manukulada Daiva Manjunatha,6,43mHFNhESUunsGVtzucZsI,Yenetha Maye Thande,spotify:track:43mHFNhESUunsGVtzucZsI,0.28,0.735,0.481,0.0,0.0576,-12.59,0.0426,154.031,0.871,0
 Manukulada Daiva Manjunatha,7,55dZpdwKPXZ67pE8W90VpK,Thanvu Mananvu Ninnalirisi,spotify:track:55dZpdwKPXZ67pE8W90VpK,0.594,0.668,0.427,0.0,0.0918,-12.497,0.0387,159.975,0.851,0
+Manukulada Daiva Manjunatha,8,6a55jMBuNdRYjdjoIaUodh,Himavanthana Aliya,spotify:track:6a55jMBuNdRYjdjoIaUodh,0.495,0.506,0.599,0.000272,0.0711,-11.171,0.0614,91.219,0.851,0
 Radha Madhava Vilasa,1,4Lv3D2J56EmoSNZX4V072J,Bagebage Hoogala,spotify:track:4Lv3D2J56EmoSNZX4V072J,0.89,0.431,0.365,5.26e-06,0.443,-8.642,0.0328,88.29,0.519,0
 Radha Madhava Vilasa,2,61EQ7G1rWx2rsPpBt9JLKB,Charu Hasini Lalitha Mohane,spotify:track:61EQ7G1rWx2rsPpBt9JLKB,0.882,0.58,0.371,2.03e-05,0.345,-7.96,0.0274,82.319,0.529,0
 Radha Madhava Vilasa,3,591yL5qNHcpslGlx8tmzNW,Hoguve Yethake,spotify:track:591yL5qNHcpslGlx8tmzNW,0.901,0.5,0.362,3.28e-06,0.297,-9.565,0.0381,77.929,0.579,0
+Radha Madhava Vilasa,4,6ZgvULq6Fh1QlOPVsZffEx,Ivale Bhaava Charu Chilume,spotify:track:6ZgvULq6Fh1QlOPVsZffEx,0.908,0.482,0.292,0.000223,0.321,-10.535,0.033,135.859,0.435,0
 Radha Madhava Vilasa,5,5afZl0Dacs9ZXX2WuKmpO0,Nee Banda Dinadinda,spotify:track:5afZl0Dacs9ZXX2WuKmpO0,0.836,0.603,0.289,2.21e-05,0.146,-9.321,0.0273,102.567,0.502,0
 Radha Madhava Vilasa,6,4r7tzJTLy2NViNAnUWzvJS,Neene Nandhana,spotify:track:4r7tzJTLy2NViNAnUWzvJS,0.888,0.365,0.325,7.27e-06,0.477,-8.457,0.0339,178.025,0.634,0
 Radha Madhava Vilasa,7,4qxyy4nbDpJwiMOhV7iV3s,Neene Sundari,spotify:track:4qxyy4nbDpJwiMOhV7iV3s,0.856,0.565,0.376,0.000109,0.441,-8.998,0.0379,86.646,0.608,0
 Radha Madhava Vilasa,8,2AmNYJ40DbIZHsQvOgBGrF,Radhike Baarade,spotify:track:2AmNYJ40DbIZHsQvOgBGrF,0.894,0.506,0.365,0.0,0.379,-8.665,0.0383,81.04,0.661,0
 Denna Dennana,1,5CUXHKkfejM5Acbxsu2zZ5,Appe Mole,spotify:track:5CUXHKkfejM5Acbxsu2zZ5,0.531,0.692,0.515,0.0,0.481,-9.468,0.0378,97.96,0.8,0
+Denna Dennana,2,0jsTCntzWDzXQ34qeSYCoi,Bathalo Bathalo,spotify:track:0jsTCntzWDzXQ34qeSYCoi,0.491,0.583,0.506,3.71e-06,0.642,-11.234,0.0743,108.992,0.886,0
 Denna Dennana,3,05fTwnDbkGfMT2L8xGakdG,Denna Dennana,spotify:track:05fTwnDbkGfMT2L8xGakdG,0.442,0.771,0.54,1.82e-05,0.445,-11.264,0.066,80.934,0.96,0
 Denna Dennana,4,3JXYXzCC7DQSFqXhlgPCTM,Dharmanaadere Bathe,spotify:track:3JXYXzCC7DQSFqXhlgPCTM,0.567,0.665,0.586,0.0,0.222,-10.082,0.06,157.946,0.85,0
 Denna Dennana,5,3yEvd3EE8StglD6msrISdt,Mallige Mudithinaal,spotify:track:3yEvd3EE8StglD6msrISdt,0.38,0.731,0.43,0.0,0.221,-11.968,0.0481,127.014,0.836,0
@@ -134,7 +235,11 @@ Harivarasanam,7,1wJ2yxVY4s4ZYziU86joIt,Maladharana Stothram,spotify:track:1wJ2yx
 Harivarasanam,8,1XBSK7WV0ZLQdR04K8rzP2,Namaskara Slokam,spotify:track:1XBSK7WV0ZLQdR04K8rzP2,0.622,0.553,0.477,0.0,0.0947,-8.38,0.0527,79.849,0.545,0
 Harivarasanam,9,1uCN1g27pTYqD0YmuHLufC,Sabarigiri Ashtakam,spotify:track:1uCN1g27pTYqD0YmuHLufC,0.578,0.711,0.614,0.0,0.141,-7.144,0.042,75.061,0.792,0
 Harivarasanam,10,4JN68ysARPOfv9rspkyVEe,Vinayaka Stuthi,spotify:track:4JN68ysARPOfv9rspkyVEe,0.909,0.301,0.232,9.8e-06,0.271,-9.277,0.0373,70.469,0.236,0
+Bhakthi Loka,1,7GmEEG70zqxIenoFbdbynI,Vinayaka Jaya Gananayaka,spotify:track:7GmEEG70zqxIenoFbdbynI,0.925,0.59,0.533,0.04,0.548,-9.848,0.157,166.693,0.813,0
+Bhakthi Loka,2,1cQYQTOFtExgCGuM4NkUNr,Namo Lakshminrusimha,spotify:track:1cQYQTOFtExgCGuM4NkUNr,0.941,0.699,0.518,0.00999,0.224,-10.139,0.0508,144.225,0.624,0
+Bhakthi Loka,3,0IssCwG5SL8UvWKtpjhYWd,Kandevu Kannare Naavu Venkateshana,spotify:track:0IssCwG5SL8UvWKtpjhYWd,0.896,0.671,0.544,0.0102,0.899,-9.055,0.0471,103.227,0.7,0
 Bhakthi Loka,4,6VtFEpKh0r8FuLqqradtsr,Nene Manave Sri Ramana Namava,spotify:track:6VtFEpKh0r8FuLqqradtsr,0.912,0.647,0.644,6.63e-05,0.406,-6.679,0.125,96.778,0.728,0
+Bhakthi Loka,5,0gwbNNpxiyQ6wZtWg96GDE,Prabhuve Gururaghavendrane,spotify:track:0gwbNNpxiyQ6wZtWg96GDE,0.886,0.68,0.522,0.00251,0.166,-9.921,0.0554,81.169,0.741,0
 Bhakthi Loka,6,5MZ8UOvvxWUDmxtHIIcA6k,Enu Dhanyano Hanuma,spotify:track:5MZ8UOvvxWUDmxtHIIcA6k,0.74,0.546,0.509,0.0,0.26,-9.174,0.0801,179.25,0.739,0
 Bhakthi Loka,7,2gp7xaHTTWR3unpx7d7Tda,Sri Sathyanarayana,spotify:track:2gp7xaHTTWR3unpx7d7Tda,0.734,0.511,0.513,3.97e-06,0.283,-9.028,0.169,107.882,0.672,0
 Bhakthi Loka,8,7fWtCjOStceTLE5NDg7uOQ,Udupiya Kshetradi Krishna,spotify:track:7fWtCjOStceTLE5NDg7uOQ,0.804,0.789,0.536,0.0,0.304,-9.275,0.111,102.924,0.641,0
